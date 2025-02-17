@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Arava Raghavendra  
 
 ## 🚀 About Me  
-I am a passionate **Java Developer** and **Aspiring Full-Stack Developer** with a strong foundation in **Java, Spring, Hibernate, HTML, CSS, JavaScript, and SQL**. I have experience in building software solutions, working on machine learning projects, and contributing to web development.  
+I am a passionate **Full-Stack Developer** with a strong foundation in **Java, Spring, Hibernate, HTML, CSS, JavaScript, and SQL**. I have experience in building software solutions, working on machine learning projects, and contributing to web development.  
 
 ## 👀 Interests  
 - Full-Stack Development  
-- Java & Backend Development  
+- Backend & Database Management  
 - Machine Learning & AI  
 - Software Engineering  
 - Open Source Contributions  
@@ -18,11 +18,10 @@ I am a passionate **Java Developer** and **Aspiring Full-Stack Developer** with 
 ## 💡 Projects  
 - **Air Quality Prediction System**  
 - **Online Banking System**  
-- **E-commerce Website**  
-- **Object Detection using AI**  
-
+- **E-commerce Website**
+  
 ## 💞️ Looking to Collaborate  
-I'm open to collaborating on **Java-based projects, Full-Stack applications, and AI-driven solutions**. Let's build something awesome together!  
+I'm open to collaborating on **Full-Stack applications, AI-driven solutions, and software development projects**. Let's build something awesome together!  
 
 ## 📫 Connect with Me  
 - **LinkedIn**: [Arava Raghavendra](https://www.linkedin.com/in/aravaraghavendra/)  
